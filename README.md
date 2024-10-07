@@ -1,4 +1,5 @@
 https://docs.google.com/document/d/1F_A09s2YEYHNHYlSuEBxxdsp5ZkNbNLHrQWvEqzP264/edit?usp=sharing - git(конспект)
+
 https://colab.research.google.com/drive/12BKY5kF9XcRJ7HJ2_7OicythI6Zg5X_W?usp=sharing - алгоритмизация
 
 # заголовок
