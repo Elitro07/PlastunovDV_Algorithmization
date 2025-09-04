@@ -1,8 +1,9 @@
-https://docs.google.com/document/d/1F_A09s2YEYHNHYlSuEBxxdsp5ZkNbNLHrQWvEqzP264/edit?usp=sharing - git(конспект)
+
 [git(конспект)](https://docs.google.com/document/d/1F_A09s2YEYHNHYlSuEBxxdsp5ZkNbNLHrQWvEqzP264/edit?usp=sharing)
-https://drive.google.com/drive/folders/1CrihSMn-f6dbwey_lM_nOrAdLoMjVMRT?usp=sharing- алгоритмизация
+
 [алгоритмизация](https://drive.google.com/drive/folders/1CrihSMn-f6dbwey_lM_nOrAdLoMjVMRT?usp=sharing)
-:point_right:[План](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing):point_left: 
+
+План](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing)
 # заголовок
 ~~текст~~
 **Жирный текст**
