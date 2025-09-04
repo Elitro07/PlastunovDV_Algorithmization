@@ -3,7 +3,7 @@
 
 [алгоритмизация](https://drive.google.com/drive/folders/1CrihSMn-f6dbwey_lM_nOrAdLoMjVMRT?usp=sharing)
 
-План](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing)
+[План](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing)
 # заголовок
 ~~текст~~
 **Жирный текст**
