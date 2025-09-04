@@ -3,7 +3,6 @@ https://docs.google.com/document/d/1F_A09s2YEYHNHYlSuEBxxdsp5ZkNbNLHrQWvEqzP264/
 https://drive.google.com/drive/folders/1CrihSMn-f6dbwey_lM_nOrAdLoMjVMRT?usp=sharing- алгоритмизация
 
 :point_right:[План](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing):point_left: 
-[План]([https://elitro07.github.io/PredmetyLN/](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing))
 # заголовок
 ~~текст~~
 **Жирный текст**
